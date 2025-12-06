@@ -1,5 +1,5 @@
 # Advent of Code Solutions
-Solutions in Fortran
+Solutions in Fortran and Python
 
 # Day 1
 * Fortran ([Part 1](day-01/part-one.f90), [Part 2](day-01/part-two.f90))
